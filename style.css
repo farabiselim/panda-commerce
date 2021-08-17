@@ -10,6 +10,7 @@
 }
 .price{
     color:#ff136f;
+    padding-top: 40px;
     padding-bottom: 4px;
 }
 .buy-now-button{
@@ -19,3 +20,23 @@
     border-radius: 8px;
     padding: 8px 24px;
     cursor: pointer;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+} 
+.cat1{
+    background-image: linear-gradient(to left, coral 0%, red 100%);
+}
+.cat2{
+    background-image: linear-gradient(to right, purple 0%, gray 100%);
+}
+.cat3{
+    background-image: linear-gradient(to left, blue 0%, darkblue 100%);
+}
+.category h1{
+    color: white;
+}
+.category img{
+    width: 100px;
+}
