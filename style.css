@@ -10,8 +10,8 @@
 }
 .price{
     color:#ff136f;
-    padding-top: 40px;
-    padding-bottom: 4px;
+    padding-top: 20px;
+    padding-bottom: 6px;
 }
 .buy-now-button{
     background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
@@ -39,4 +39,8 @@
 }
 .category img{
     width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightblue;
 }
