@@ -44,3 +44,9 @@
     border: none;
     box-shadow: 5px 5px 10px lightblue;
 }
+#contact{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
